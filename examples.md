@@ -1,3 +1,35 @@
+# Example Draft
+```
+Olena Ivanenko
+Data Scientist with 6 years of experience designing and deploying machine learning solutions for EdTech and FinTech. Proven track record building recommendation systems and MLOps pipelines that deliver measurable business impact (reduced churn, improved retention). Strong practical skills in Python, TensorFlow, embeddings, and production deployment (Docker, CI/CD).
+Implemented a production recommendation engine using embeddings and TensorFlow, integrated via Docker and CI/CD. The solution reduced customer churn by 12% over six months and improved engagement metrics in A/B testing.
+Python · TensorFlow · Machine Learning · Recommender Systems · Embeddings · NLP · Feature Engineering · MLOps · Docker · CI/CD · A/B Testing · SQL · Data Processing · Model Monitoring
+Master of Science in Applied Mathematics — Chernivtsi National University, 2019
+```
+
+
+# Examples Inline
+
+```
+Olena — Data Scientist — built a recommender system that reduced churn by 12%.
+Ivan — ML Engineer — deployed models to production using Docker and GitHub Actions.
+Maria — Data Engineer — optimized ETL pipelines (Airflow, PostgreSQL) increasing throughput 3×.
+Andriy — Product Data Scientist — led A/B tests that increased conversion by 8%.
+Svitlana — NLP Engineer — fine-tuned transformer models for text classification (HuggingFace).
+Dmytro — Software Engineer (Backend) — implemented REST APIs and improved latency by 40%.
+Kateryna — Business Analyst — created dashboards (Looker/Tableau) used by product and sales teams.
+Pavlo — Computer Vision Researcher — developed object-detection pipeline reducing false positives by 20%.
+Nadia — ML Researcher — published work on embeddings and semantic search in peer-reviewed venues.
+Oleh — DevOps Engineer — built CI/CD for data workloads and automated model deployments.
+Iryna — Junior Data Scientist — automated feature engineering scripts and improved model training time.
+Taras — Senior Data Scientist — designed end-to-end forecasting system for demand planning.
+Lesia — MLOps Engineer — implemented monitoring and alerting for model drift (Prometheus).
+Mykola — Data Analyst — cleaned and transformed raw logs into KPI reports used weekly by ops.
+Anya — AI Product Manager — defined roadmap and KPIs for chatbot product, coordinated cross-functional teams.
+```
+
+
+
 
 # Examples: Messy → ATS → Polished
 Examples are ready to paste into prompts.txt or into your LLM window.
