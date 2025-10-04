@@ -1,0 +1,27 @@
+{
+  "feature_columns": [
+    "Rating",
+    "Founded",
+    "hourly",
+    "employer_provided",
+    "Job Title",
+    "Job Description"
+  ],
+  "categorical_features": [
+    "Job Title",
+    "Job Description"
+  ],
+  "numerical_features": [
+    "Rating",
+    "Founded",
+    "hourly",
+    "employer_provided"
+  ],
+  "target_column": "Salary Estimate",
+  "lr_rmse": 22102.443401390552,
+  "lr_r2": 0.6883976034614214,
+  "rf_rmse": 27429.413336438825,
+  "rf_r2": 0.5200972342456163,
+  "n_samples": 742,
+  "n_features": 6
+}
